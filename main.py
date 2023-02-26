@@ -37,7 +37,7 @@ Why in particular is functional programming a helpful paradigm when solving this
 
 Functional programming is helpful when solving this problem because it emphasizes immutability and avoids side effects. 
 The solution presented here creates a new list instead of modifying the original input, and it does not have any side effects. 
-This makes the code easier to reason about and more robust. Additionally, the use of functions like append and sorted allows us to 
+This makes the code easier to reason about and more robust. Additionally, the use of functions like `append` and `sorted` allows us to 
 break down the problem into smaller, composable pieces, which is a key concept in functional programming.
 
 
