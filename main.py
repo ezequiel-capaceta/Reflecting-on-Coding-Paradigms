@@ -46,3 +46,9 @@ break down the problem into smaller, composable pieces, which is a key concept i
 #Watto needs a new system for organizing his inventory of podracers. 
 #Help him do this by implementing an Object Oriented solution according to the following criteria.
 
+# First, he'll need a general Podracer class defined with max_speed, condition (perfect, trashed, repaired) and price attributes. 
+class Podracer:
+  def __init__(self, max_speed, condition, price):
+    self.max_speed = max_speed
+    self.condition = condition
+    self.price = price
