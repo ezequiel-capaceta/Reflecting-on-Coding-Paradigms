@@ -28,7 +28,8 @@ No, this solution is not a higher-order function because it does not take any fu
 
 4. Is this solution a higher order function? Why or why not?
 
-
+It might have been easier to solve this problem using a different programming style, such as using list comprehensions or recursion. 
+However, the solution presented here is clear and readable, and it effectively solves the problem.
 
 
 5. Would it have been easier to solve this problem using a different programming style?
