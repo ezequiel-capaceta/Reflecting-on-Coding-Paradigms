@@ -94,13 +94,12 @@ It may have been possible to implement a solution to this problem using a differ
 style such as procedural or functional programming, but object-oriented programming 
 provides a more intuitive and natural way to model entities with complex properties and behaviors.
 
-Object-oriented programming assisted in solving this problem by allowing us to create classes that represent real-world entities and encapsulate their properties and behaviors. The use of inheritance and polymorphism also helped to make the code more modular and easier to understand, as well as promoting code reuse. Overall, OOP helped to create a more organized and scalable solution to the problem of organizing inventory for podracers.
-
-
-
-
-
-
 How in particular did Object Oriented Programming assist in the solving of this problem?
+
+Object-oriented programming assisted in solving this problem by allowing us to create 
+classes that represent real-world entities and encapsulate their properties and behaviors. 
+The use of inheritance and polymorphism also helped to make the code more modular 
+and easier to understand, as well as promoting code reuse. Overall, OOP helped to create 
+a more organized and scalable solution to the problem of organizing inventory for podracers.
 
 """
