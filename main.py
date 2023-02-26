@@ -69,3 +69,14 @@ class SebulbasPod(Podracer):
   
   def flame_jet(self,other):
     other.condition = "trashed"
+
+"""
+Make sure to answer the following prompts about your coding experience:
+
+How does this solution demonstrate the four pillars of OOP? (It may not demonstrate all of them, describe only those that apply)
+
+Would it have been easier to implement a solution to this problem using a different coding style? Why or why not?
+
+How in particular did Object Oriented Programming assist in the solving of this problem?
+
+"""
