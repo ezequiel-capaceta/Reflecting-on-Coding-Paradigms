@@ -18,10 +18,13 @@ The sorting operation is also performed on the new list, leaving the original in
 
 2. How does this solution ensure data immutability?
 
-
+Yes, this solution is a pure function because it does not have any side effects and always returns the same output given the same input.
 
 
 3. Is this solution a pure function? Why or why not?
+
+
+
 
 4. Is this solution a higher order function? Why or why not?
 
