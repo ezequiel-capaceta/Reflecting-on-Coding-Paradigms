@@ -40,5 +40,9 @@ The solution presented here creates a new list instead of modifying the original
 This makes the code easier to reason about and more robust. Additionally, the use of functions like `append` and `sorted` allows us to 
 break down the problem into smaller, composable pieces, which is a key concept in functional programming.
 
-
 """
+
+#OOP
+#Watto needs a new system for organizing his inventory of podracers. 
+#Help him do this by implementing an Object Oriented solution according to the following criteria.
+
