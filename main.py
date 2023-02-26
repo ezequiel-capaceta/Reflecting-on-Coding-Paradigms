@@ -23,10 +23,13 @@ Yes, this solution is a pure function because it does not have any side effects 
 
 3. Is this solution a pure function? Why or why not?
 
-
+No, this solution is not a higher-order function because it does not take any functions as arguments or return any functions as output.
 
 
 4. Is this solution a higher order function? Why or why not?
+
+
+
 
 5. Would it have been easier to solve this problem using a different programming style?
 Why in particular is functional programming a helpful paradigm when solving this problem?
