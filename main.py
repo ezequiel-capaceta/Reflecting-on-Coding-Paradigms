@@ -11,7 +11,15 @@ def flatten_and_sort(array):
 """
 1. Make sure to answer the following questions about your coding process:
 
+This solution ensures data immutability because it does not modify the original input array. 
+Instead, it creates a new list arr and appends each element from array to it. 
+The sorting operation is also performed on the new list, leaving the original input unchanged.
+
+
 2. How does this solution ensure data immutability?
+
+
+
 
 3. Is this solution a pure function? Why or why not?
 
