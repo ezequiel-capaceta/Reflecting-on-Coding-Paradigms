@@ -75,6 +75,19 @@ Make sure to answer the following prompts about your coding experience:
 
 How does this solution demonstrate the four pillars of OOP? (It may not demonstrate all of them, describe only those that apply)
 
+1. Abstraction: The classes and methods defined in the solution abstract the complex details of podracers, their properties, and actions from the rest of the code. 
+The properties and behaviors are encapsulated within their respective classes, making the code more modular and easier to understand.
+
+2. Inheritance: The solution utilizes inheritance to create a hierarchy of classes, where the child classes (AnakinsPod and SebulbasPod) inherit properties and methods from the parent class (Podracer). 
+This helps to reduce code duplication and promotes code reuse.
+
+3. Polymorphism: The solution demonstrates polymorphism through the use of different methods with the same name but different functionality in the child classes (boost and flame_jet). 
+These methods operate differently depending on the class they belong to.
+
+4. Encapsulation: The solution encapsulates data and behaviors within their respective classes, preventing them from being accessed or modified in unintended ways. 
+The properties of each class can only be accessed or modified through specific methods defined within that class.
+
+
 Would it have been easier to implement a solution to this problem using a different coding style? Why or why not?
 
 How in particular did Object Oriented Programming assist in the solving of this problem?
